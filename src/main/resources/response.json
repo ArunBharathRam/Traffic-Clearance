@@ -1,0 +1,26 @@
+{
+  "destination_addresses": [
+    "Madukkarai, Coimbatore, Tamil Nadu, India"
+  ],
+  "origin_addresses": [
+    "Palathurai Rd, Mettankadu, Madukkarai, Coimbatore, Tamil Nadu 641105, India"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "0.1 km",
+            "value": 130
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 15
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

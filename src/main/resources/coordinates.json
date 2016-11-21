@@ -1,0 +1,34 @@
+{
+  "coordinates": [
+    {
+      "id": 1,
+      "latitude": 10.902812,
+      "longitude": 76.957753
+    },
+    {
+      "id": 2,
+      "latitude": 10.903692,
+      "longitude": 76.957185
+    },
+    {
+      "id": 3,
+      "latitude": 10.903980,
+      "longitude": 76.959080
+    },
+    {
+      "id": 4,
+      "latitude": 10.904026,
+      "longitude": 76.960004
+    },
+    {
+      "id": 5,
+      "latitude": 10.904102,
+      "longitude": 76.961110
+    },
+    {
+      "id": 6,
+      "latitude": 10.903369,
+      "longitude": 76.959580
+    }
+  ]
+}
